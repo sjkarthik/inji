@@ -7,6 +7,7 @@ on:
     - develop
     - qa-develop
     - 'release-**'
+    - release-0.11.0-new
   release:
     types: [published]
   pull_request:
