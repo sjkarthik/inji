@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030446881017",
+    "project_id": "tfgovnew",
+    "storage_bucket": "tfgovnew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030446881017:android:551937451e2ea8ec42ea28",
+        "android_client_info": {
+          "package_name": "io.mosip.residentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-GruE9krPQYjiGLXzyUWddPGr7AdeYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
